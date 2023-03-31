@@ -4,7 +4,7 @@ import unittest
 import os
 
 ###########################################
-# Your name: Kedi Jiang                             #
+# Your name: Kedi Jiang                       #
 # Who you worked with:   None                 #
 ###########################################
 

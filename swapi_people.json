@@ -1,16 +1,3 @@
-
-Home
-About
-Documentation
-Api Root People List
-
-People List
-GET /api/people/
-HTTP 200 OK
-Content-Type: application/json
-Vary: Accept
-Allow: GET, HEAD, OPTIONS
-
 {
     "count": 82, 
     "next": "https://swapi.dev/api/people/?page=2", 
